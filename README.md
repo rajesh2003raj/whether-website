@@ -1,2 +1,1 @@
-# whether-website
-author Rajesh kumar shing
+# whether-websi
